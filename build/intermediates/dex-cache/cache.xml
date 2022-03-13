@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Camera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="80901ca66db72c20e170b7bdd01694b41ef868b4">
+        <dex dex="D:\Camera\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a8516983c94d9882c6498dc53ada5fbb923fac7d.jar" />
+    </item>
+
+</items>
